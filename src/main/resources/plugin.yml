@@ -1,0 +1,4 @@
+name: DeathPlugin
+version: '${project.version}'
+main: nl.codingtime.deathplugin.Main
+api-version: '1.20'
